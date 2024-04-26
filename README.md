@@ -30,12 +30,12 @@ The primary motivation behind this project is to provide an interactive and educ
 ## Usage
 1. Clone the repository to your local machine:
 ```python
-git clone https://github.com/YourUsername/Hangman.git
+git clone https://github.com/MilanSajiv/Hangman.git
 ```
 
 2. Run the desired milestone script to explore different aspects of the Hangman game:
 ```python
-python Milestone_2.py
+python Milestone_5.py
 ```
 3. Follow the prompts or instructions provided within the script to interact with the game and explore its features.
 4. Experiment with different milestones to deepen your understanding of Python programming concepts and the Hangman game.
@@ -43,11 +43,7 @@ python Milestone_2.py
 ## Example
 ```python
 from milestone_4 import Hangman
-
-# Initialize a list of words
 word_list = ['apple', 'mango', 'strawberry', 'watermelon', 'banana']
-
-# Play the Hangman game
 play_game(word_list)
 ```
 
